@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.dropbox.com	0	1	1572345653	15552000
+ucbfa324f5412a7c0759d5089a8d.dl.dropboxusercontent.com	0	1	1572345654	15552000
