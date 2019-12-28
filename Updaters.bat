@@ -7,13 +7,14 @@ echo ------------------------
 echo -- SwitchTools By Zoria --
 echo ------------------------
 echo.
-echo - Verification des dernière mises a jour des ressource -
-wget https://www.dropbox.com/s/xshrdqlk3gmr1xl/ressource.zip
+echo - Verification des dernières mises a jour des ressources -
+wget https://www.dropbox.com/s/xshrdqlk3gmr1xl/update.zip
 @echo off
 setlocal
 cd /d %~dp0
-7z x ressource.zip
-del ressource.zip
+7z x update.zip
+del update.zip
+cls
 :fin
 endlocal
 exit
