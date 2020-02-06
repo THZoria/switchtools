@@ -1,14 +1,14 @@
 # switchtools
-SwitchTools est un script en ligne de commande pour aider les utilisateurs sur le hack de la switch
+SwitchTools is a command line script to help users hack the switch
 
-Merci au développeur pour leur travaille
-Remerciement : 
-- Julesontheroad pour NSCBuilder 
+Thanks to the developer for their work
+Thanks :
+- Julesontheroad for NSCBuilder 
 => https://github.com/julesontheroad/NSC_BUILDER
-- Eliboa pour TegraRCMGui
+- Eliboa for TegraRCMGui
 => https://github.com/eliboa/TegraRcmGUI
-- Dezm pour SAK
+- Dezm for SAK
 => https://github.com/dezem/SAK
-- Exelix11 pour sysDVR
+- Exelix11 for sysDVR
 => https://github.com/exelix11/SysDVR/
 
