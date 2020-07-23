@@ -40,7 +40,7 @@ cd C:\switchtools\ressource\SysDVR
 call "%fold%\ressource\sysDVR\sysDVR.bat"
 goto :menu
 :batch5
-call "%fold%\ressource\Updaters.bat"
+call "%fold%\Updaters.bat"
 goto :menu
 :batch6
 exit
