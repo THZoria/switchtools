@@ -9,6 +9,7 @@ echo ------------------------
 echo.
 echo - Verification des dernières mises a jour des ressources -
 wget https://www.dropbox.com/s/30sgly6ju8omkz7/ressource.zip
+cls
 @echo off
 setlocal
 cd /d %~dp0
