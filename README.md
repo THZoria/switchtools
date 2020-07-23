@@ -12,3 +12,5 @@ Thanks :
 - Exelix11 for sysDVR
 => https://github.com/exelix11/SysDVR/
 
+Special thanks to Shadow256 for his work on the Ultimate Switch Script Hack from which this script is inspired
+=> https://github.com/shadow2560/Ultimate-Switch-Hack-Script
