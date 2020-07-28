@@ -48,6 +48,7 @@ If /i "%reponse%"=="3" goto :batch3
 If /i "%reponse%"=="4" goto :batch4
 If /i "%repose%%"=="5" goto :batch5
 If /i "%reponse%"=="5" goto :batch6
+If /i "%reponse%"=="5" goto :batch7
 If /i "%reponse%"=="5" goto :fin
 
 :batch1
@@ -64,9 +65,12 @@ cd C:\switchtools\ressource\SysDVR
 call "%fold%\ressource\sysDVR\sysDVR.bat"
 goto :menu
 :batch5
-call "%fold%\Updaters.bat"
+call "%fold%\Payloader"
 goto :menu
 :batch6
+call "%fold%\Updaters.bat"
+goto :menu
+:batch7
 exit
 goto :menu
 :fin
