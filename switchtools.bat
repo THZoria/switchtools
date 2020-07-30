@@ -37,8 +37,9 @@ echo 1.NSCBuilder
 echo 2.TegraRcmGUI
 echo 3.SAK (Conversion NSP / XCI / NSZ / XCZ)
 echo 4.SysDVR
-echo 5.Update
-echo 6.Quitter
+echo 5.Payloader
+echo 6.Update
+echo 7.Quitter
 echo.
 set /p reponse="Quel programme voulez-vous executer ?"
 
