@@ -1,4 +1,3 @@
-::Script by Shadow256
 Setlocal enabledelayedexpansion
 @echo on
 chcp 65001
