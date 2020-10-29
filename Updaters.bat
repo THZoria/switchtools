@@ -5,6 +5,7 @@ color 5F
 :menu
 echo ------------------------
 echo -- SwitchTools By Zoria --
+     --      Core Update     --
 echo ------------------------
 echo.
 echo - Verification des dernières mises a jour des ressources -
