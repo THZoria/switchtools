@@ -23,9 +23,11 @@ if '%errorlevel%' NEQ '0' (
 	pushd "%CD%"
 	cd /D "%~dp0"
 ::--------------------------------------
-setlocal
-@for %%n in (%0) do set fold=%%~dpn
-color 5F
+color f0
+chcp 65001 >nul
+Setlocal enabledelayedexpansion
+::MODE con:cols=140 lines=70
+cls
 :menu
 echo ------------------------
 echo -- SwitchTools By Zoria --
