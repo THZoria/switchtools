@@ -1,7 +1,7 @@
 # switchtools
 SwitchTools is a command line script to help users hack the switch
 
-[![Discord]https://discord.com/api/guilds/454099185416011776/widget.json)](https://discord.gg/4YkUZvC)
+<img src="https://discordapp.com/api/guilds/NTxJnWN/widget.png?style=banner2" alt="SigHya Discord"/>
 
 Thanks to the developer for their work
 Thanks :
