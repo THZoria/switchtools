@@ -37,9 +37,8 @@ echo 1.NSCBuilder
 echo 2.TegraRcmGUI
 echo 3.SAK (Conversion NSP / XCI / NSZ / XCZ)
 echo 4.SysDVR
-echo 5.Payloader
-echo 6.Update
-echo 7.Quitter
+echo 5.Update
+echo 6.Quitter
 echo.
 set /p reponse="Quel programme voulez-vous executer ?"
 
@@ -48,9 +47,8 @@ If /i "%reponse%"=="2" goto :batch2
 If /i "%reponse%"=="3" goto :batch3
 If /i "%reponse%"=="4" goto :batch4
 If /i "%repose%%"=="5" goto :batch5
-If /i "%reponse%"=="5" goto :batch6
-If /i "%reponse%"=="5" goto :batch7
-If /i "%reponse%"=="5" goto :fin
+If /i "%reponse%"=="6" goto :batch6
+If /i "%reponse%"=="7" goto :fin
 
 :batch1
 call "%fold%\ressource\NSCBuilder\NSCB_lang.bat"
