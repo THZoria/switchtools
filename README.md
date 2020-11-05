@@ -1,7 +1,7 @@
 # switchtools
 SwitchTools is a command line script to help users hack the switch
 
-<img src="https://discordapp.com/api/guilds/454099185416011776/widget.png?style=banner4 https://discord.gg/XRYzNKyc" alt="Discord Banner 4"/>
+![Discord Banner 4](https://discordapp.com/api/guilds/454099185416011776/widget.png?style=banner4)(https://discord.gg/XRYzNKyc)
 
 Thanks to the developer for their work
 Thanks :
