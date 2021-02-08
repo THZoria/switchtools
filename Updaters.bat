@@ -5,12 +5,10 @@ color 5F
 :menu
 echo ------------------------
 echo -- SwitchTools By Zoria --
-     --      Core Update     --
 echo ------------------------
 echo.
 echo - Verification des dernières mises a jour des ressources -
-wget https://www.dropbox.com/s/30sgly6ju8omkz7/ressource.zip
-cls
+wget https://www.dropbox.com/s/xshrdqlk3gmr1xl/ressource.zip
 @echo off
 setlocal
 cd /d %~dp0
