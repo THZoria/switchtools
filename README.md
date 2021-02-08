@@ -4,6 +4,7 @@ SwitchTools is a command line script to help users hack the switch
 [![Discord](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA
 )](https://discord.gg/XRYzNKyc)
 [![Latest release](https://img.shields.io/github/v/release/THZoria/switchtools)](https://github.com/THZoria/switchtools/releases)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
 
 
 Thanks to the developer for their work
