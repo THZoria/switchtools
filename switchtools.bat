@@ -39,6 +39,10 @@ cd C:\switchtools\ressource\SysDVR
 call "%fold%\ressource\sysDVR\sysDVR.bat"
 goto :menu
 :batch5
+cd C:\switchtools\ressource\sigpatch
+call "%fold%\ressource\sigpatch\menu.bat"
+goto :menu
+:batch6
 exit
 goto :menu
 :fin
