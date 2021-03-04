@@ -1,0 +1,5 @@
+Reste à traduire
+Fichier NSCB_config.bat
+***************************************************************************
+echo SET NUMBER OF WORKERS FOR THREADED OPERATIONS
+echo ***************************************************************************
