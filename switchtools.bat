@@ -5,7 +5,7 @@ color 5F
 :menu
 echo ------------------------
 echo -- SwitchTools By Zoria --
-echo          Version 1.6.0
+echo          Version 1.6.2
 echo ------------------------
 echo.
 if not exist "%fold%\ressource\ressource.txt" call "%fold%\Updaters.bat"
